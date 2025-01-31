@@ -19,4 +19,3 @@ This repository provides key components essential for Xumi's Comprehension Modul
 - **`intent datasets/`**  
   Contains all evaluated natural language intents and their corresponding expected IR (Intent Resolution).
 
-Testing update function.
