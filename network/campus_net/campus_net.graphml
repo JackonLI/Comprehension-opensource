@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="label_subnet" attr.type="string"/>
+<key id="d1" for="node" attr.name="label_location" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Central_Switch1">
+  <data key="d0">switch</data>
+</node>
+<node id="Central_Switch2">
+  <data key="d0">switch</data>
+</node>
+<node id="Central_Switch3">
+  <data key="d0">switch</data>
+</node>
+<node id="Library_Switch1">
+  <data key="d0">switch</data>
+</node>
+<node id="General_Education_Switch1">
+  <data key="d0">switch</data>
+</node>
+<node id="Arts_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Arts</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Arts_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Arts</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Arts_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Arts</data>
+  <data key="d2">office</data>
+</node>
+<node id="Arts_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Arts</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Business_Administration_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Business_Administration</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Business_Administration_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Business_Administration</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Business_Administration_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Business_Administration</data>
+  <data key="d2">office</data>
+</node>
+<node id="Business_Administration_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Business_Administration</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Education_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Education</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Education_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Education</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Education_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Education</data>
+  <data key="d2">office</data>
+</node>
+<node id="Education_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Education</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Law_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Law</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Law_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Law</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Law_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Law</data>
+  <data key="d2">office</data>
+</node>
+<node id="Law_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Law</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Engineering_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Engineering</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Engineering_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Engineering</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Engineering_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Engineering</data>
+  <data key="d2">office</data>
+</node>
+<node id="Engineering_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Engineering</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Science_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Science</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Science_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Science</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Science_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Science</data>
+  <data key="d2">office</data>
+</node>
+<node id="Science_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Science</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Social_Science_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Social_Science</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Social_Science_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Social_Science</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Social_Science_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Social_Science</data>
+  <data key="d2">office</data>
+</node>
+<node id="Social_Science_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Social_Science</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Medicine_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Medicine</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Medicine_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Medicine</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Medicine_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Medicine</data>
+  <data key="d2">office</data>
+</node>
+<node id="Medicine_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Medicine</data>
+  <data key="d2">classroom</data>
+</node>
+<node id="Graduate_School_Switch1">
+  <data key="d0">switch</data>
+  <data key="d1">Graduate_School</data>
+  <data key="d2">firewall</data>
+</node>
+<node id="Graduate_School_Switch2">
+  <data key="d0">switch</data>
+  <data key="d1">Graduate_School</data>
+  <data key="d2">lab</data>
+</node>
+<node id="Graduate_School_Switch3">
+  <data key="d0">switch</data>
+  <data key="d1">Graduate_School</data>
+  <data key="d2">office</data>
+</node>
+<node id="Graduate_School_Switch4">
+  <data key="d0">switch</data>
+  <data key="d1">Graduate_School</data>
+  <data key="d2">classroom</data>
+</node>
+<edge source="Central_Switch1" target="Central_Switch2"/>
+<edge source="Central_Switch1" target="Central_Switch3"/>
+<edge source="Central_Switch1" target="Education_Switch1"/>
+<edge source="Central_Switch1" target="Law_Switch1"/>
+<edge source="Central_Switch1" target="Library_Switch1"/>
+<edge source="Central_Switch1" target="Science_Switch1"/>
+<edge source="Central_Switch2" target="Central_Switch3"/>
+<edge source="Central_Switch2" target="Engineering_Switch2"/>
+<edge source="Central_Switch2" target="Social_Science_Switch2"/>
+<edge source="Central_Switch2" target="Medicine_Switch2"/>
+<edge source="Central_Switch3" target="Arts_Switch2"/>
+<edge source="Central_Switch3" target="Business_Administration_Switch2"/>
+<edge source="Central_Switch3" target="Graduate_School_Switch2"/>
+<edge source="Central_Switch3" target="General_Education_Switch1"/>
+<edge source="Central_Switch3" target="Library_Switch1"/>
+<edge source="Library_Switch1" target="Engineering_Switch1"/>
+<edge source="Library_Switch1" target="Science_Switch1"/>
+<edge source="Library_Switch1" target="Medicine_Switch1"/>
+<edge source="General_Education_Switch1" target="Medicine_Switch1"/>
+<edge source="General_Education_Switch1" target="Graduate_School_Switch1"/>
+<edge source="Arts_Switch1" target="Arts_Switch2"/>
+<edge source="Arts_Switch1" target="Arts_Switch4"/>
+<edge source="Arts_Switch1" target="Business_Administration_Switch1"/>
+<edge source="Arts_Switch1" target="Education_Switch1"/>
+<edge source="Arts_Switch2" target="Arts_Switch3"/>
+<edge source="Arts_Switch3" target="Arts_Switch4"/>
+<edge source="Business_Administration_Switch1" target="Business_Administration_Switch2"/>
+<edge source="Business_Administration_Switch1" target="Business_Administration_Switch4"/>
+<edge source="Business_Administration_Switch1" target="Law_Switch1"/>
+<edge source="Business_Administration_Switch2" target="Business_Administration_Switch3"/>
+<edge source="Business_Administration_Switch3" target="Business_Administration_Switch4"/>
+<edge source="Education_Switch1" target="Education_Switch2"/>
+<edge source="Education_Switch1" target="Education_Switch4"/>
+<edge source="Education_Switch1" target="Engineering_Switch1"/>
+<edge source="Education_Switch2" target="Education_Switch3"/>
+<edge source="Education_Switch3" target="Education_Switch4"/>
+<edge source="Law_Switch1" target="Law_Switch2"/>
+<edge source="Law_Switch1" target="Law_Switch4"/>
+<edge source="Law_Switch1" target="Engineering_Switch1"/>
+<edge source="Law_Switch2" target="Law_Switch3"/>
+<edge source="Law_Switch3" target="Law_Switch4"/>
+<edge source="Engineering_Switch1" target="Engineering_Switch2"/>
+<edge source="Engineering_Switch1" target="Engineering_Switch4"/>
+<edge source="Engineering_Switch1" target="Science_Switch1"/>
+<edge source="Engineering_Switch2" target="Engineering_Switch3"/>
+<edge source="Engineering_Switch3" target="Engineering_Switch4"/>
+<edge source="Science_Switch1" target="Science_Switch2"/>
+<edge source="Science_Switch1" target="Science_Switch4"/>
+<edge source="Science_Switch1" target="Graduate_School_Switch1"/>
+<edge source="Science_Switch2" target="Science_Switch3"/>
+<edge source="Science_Switch3" target="Science_Switch4"/>
+<edge source="Social_Science_Switch1" target="Social_Science_Switch2"/>
+<edge source="Social_Science_Switch1" target="Social_Science_Switch4"/>
+<edge source="Social_Science_Switch1" target="Medicine_Switch1"/>
+<edge source="Social_Science_Switch1" target="Graduate_School_Switch1"/>
+<edge source="Social_Science_Switch2" target="Social_Science_Switch3"/>
+<edge source="Social_Science_Switch3" target="Social_Science_Switch4"/>
+<edge source="Medicine_Switch1" target="Medicine_Switch2"/>
+<edge source="Medicine_Switch1" target="Medicine_Switch4"/>
+<edge source="Medicine_Switch1" target="Graduate_School_Switch1"/>
+<edge source="Medicine_Switch2" target="Medicine_Switch3"/>
+<edge source="Medicine_Switch3" target="Medicine_Switch4"/>
+<edge source="Graduate_School_Switch1" target="Graduate_School_Switch2"/>
+<edge source="Graduate_School_Switch1" target="Graduate_School_Switch4"/>
+<edge source="Graduate_School_Switch2" target="Graduate_School_Switch3"/>
+<edge source="Graduate_School_Switch3" target="Graduate_School_Switch4"/>
+</graph></graphml>

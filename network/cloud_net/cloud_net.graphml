@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="pos" attr.type="string"/>
+<key id="d0" for="node" attr.name="location" attr.type="string"/>
+<graph edgedefault="undirected"><node id="West US 2 Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.9072, -77.0369)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="West US Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.7783, -119.4179)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="West US 3 Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(34.0489, -111.0937)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="West Central US Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(43.075, -107.2903)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Mexico Central Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.5888, -100.3899)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="South Central US Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(31.9686, -99.9018)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Central US Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.878, -93.0977)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="North Central US Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.6331, -89.3985)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="East US 3 Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.749, -84.388)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="East US 2 Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.4316, -78.6569)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="East US Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.5407, -77.436)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Canada Central Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.6511, -79.3837)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Canada East Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.8139, -71.2082)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Brazil South Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.5505, -46.6333)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Chile Central Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.4489, -70.6693)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="North Europe Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.1424, -7.6921)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="UK West Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.4816, -3.1791)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="UK South Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.5074, -0.1278)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Spain Central Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.4168, -3.7038)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="France Central Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.8566, 2.3522)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="West Europe Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.3676, 4.9041)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Germany West Central Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.1109, 8.6821)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Switzerland North Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.3769, 8.5417)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Italy North Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.4642, 9.19)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Norway East Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.9139, 10.7522)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Sweden Central Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.6749, 17.1413)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Poland Central Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.2297, 21.0122)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Belgium Central Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.8503, 4.3517)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Denmark East Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.6761, 12.5683)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Finland Central Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.1695, 24.9354)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Austria East Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.2082, 16.3738)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Greece Central Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(37.9838, 23.7275)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="South Africa North Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.2041, 28.0473)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Israel Central Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(31.0461, 34.8516)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Qatar Central Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.276987, 51.520008)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="UAE North Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.2048, 55.2708)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Central India Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.5204, 73.8567)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="South India Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.0827, 80.2707)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Southeast Asia Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.3521, 103.8198)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="East Asia Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.3193, 114.1694)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="China North Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.9042, 116.4074)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="China North 3 Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(39.05, 116.29)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="China North 2 Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.905, 116.4075)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="China East 2 Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.2304, 121.4737)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="China East Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.2305, 121.4738)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Korea Central Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.5665, 126.978)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Japan West Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.6937, 135.5023)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Japan East Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.6895, 139.6917)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Saudi Arabia East Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.3927, 49.9777)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="India South Central Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.385, 78.4867)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Malaysia West Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.139, 101.6869)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Indonesia Central Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.2088, 106.8456)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Taiwan North Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(25.032, 121.5654)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Australia Southeast Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.8136, 144.9631)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Australia East Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.8688, 151.2093)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="Australia Central Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.2809, 149.13)</data>
+  <data key="d2">backbone</data>
+</node>
+<node id="New Zealand North Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.8485, 174.7633)</data>
+  <data key="d2">backbone</data>
+</node>
+<edge source="West US 2 Router" target="West US Router"/>
+<edge source="West US 2 Router" target="West Central US Router"/>
+<edge source="West US 2 Router" target="Japan East Router"/>
+<edge source="West US Router" target="West US 3 Router"/>
+<edge source="West US Router" target="West Central US Router"/>
+<edge source="West US Router" target="East Asia Router"/>
+<edge source="West US Router" target="Southeast Asia Router"/>
+<edge source="West US Router" target="Australia Central Router"/>
+<edge source="West US 3 Router" target="West Central US Router"/>
+<edge source="West US 3 Router" target="South Central US Router"/>
+<edge source="West Central US Router" target="Central US Router"/>
+<edge source="West Central US Router" target="South Central US Router"/>
+<edge source="Mexico Central Router" target="South Central US Router"/>
+<edge source="South Central US Router" target="Central US Router"/>
+<edge source="South Central US Router" target="East US 2 Router"/>
+<edge source="South Central US Router" target="East US 3 Router"/>
+<edge source="South Central US Router" target="Brazil South Router"/>
+<edge source="Central US Router" target="North Central US Router"/>
+<edge source="Central US Router" target="Canada Central Router"/>
+<edge source="North Central US Router" target="Canada Central Router"/>
+<edge source="North Central US Router" target="East US 2 Router"/>
+<edge source="East US 3 Router" target="East US 2 Router"/>
+<edge source="East US 3 Router" target="Brazil South Router"/>
+<edge source="East US 2 Router" target="East US Router"/>
+<edge source="East US 2 Router" target="Brazil South Router"/>
+<edge source="East US Router" target="Canada Central Router"/>
+<edge source="East US Router" target="Canada East Router"/>
+<edge source="East US Router" target="Spain Central Router"/>
+<edge source="Canada Central Router" target="Canada East Router"/>
+<edge source="Canada East Router" target="UK West Router"/>
+<edge source="Brazil South Router" target="Chile Central Router"/>
+<edge source="North Europe Router" target="UK West Router"/>
+<edge source="UK West Router" target="UK South Router"/>
+<edge source="UK West Router" target="France Central Router"/>
+<edge source="UK South Router" target="France Central Router"/>
+<edge source="UK South Router" target="Norway East Router"/>
+<edge source="Spain Central Router" target="France Central Router"/>
+<edge source="Spain Central Router" target="Italy North Router"/>
+<edge source="Spain Central Router" target="Greece Central Router"/>
+<edge source="Spain Central Router" target="South Africa North Router"/>
+<edge source="Spain Central Router" target="Israel Central Router"/>
+<edge source="Spain Central Router" target="Central India Router"/>
+<edge source="Spain Central Router" target="Southeast Asia Router"/>
+<edge source="France Central Router" target="West Europe Router"/>
+<edge source="France Central Router" target="Switzerland North Router"/>
+<edge source="France Central Router" target="Italy North Router"/>
+<edge source="France Central Router" target="Belgium Central Router"/>
+<edge source="West Europe Router" target="Sweden Central Router"/>
+<edge source="West Europe Router" target="Germany West Central Router"/>
+<edge source="Germany West Central Router" target="Sweden Central Router"/>
+<edge source="Germany West Central Router" target="Poland Central Router"/>
+<edge source="Germany West Central Router" target="Switzerland North Router"/>
+<edge source="Germany West Central Router" target="Belgium Central Router"/>
+<edge source="Germany West Central Router" target="Denmark East Router"/>
+<edge source="Germany West Central Router" target="Austria East Router"/>
+<edge source="Switzerland North Router" target="Italy North Router"/>
+<edge source="Italy North Router" target="Poland Central Router"/>
+<edge source="Italy North Router" target="Austria East Router"/>
+<edge source="Italy North Router" target="Greece Central Router"/>
+<edge source="Italy North Router" target="Israel Central Router"/>
+<edge source="Italy North Router" target="Southeast Asia Router"/>
+<edge source="Norway East Router" target="Sweden Central Router"/>
+<edge source="Sweden Central Router" target="Denmark East Router"/>
+<edge source="Sweden Central Router" target="Finland Central Router"/>
+<edge source="South Africa North Router" target="Israel Central Router"/>
+<edge source="Israel Central Router" target="Southeast Asia Router"/>
+<edge source="Israel Central Router" target="UAE North Router"/>
+<edge source="Qatar Central Router" target="UAE North Router"/>
+<edge source="Qatar Central Router" target="Saudi Arabia East Router"/>
+<edge source="UAE North Router" target="Central India Router"/>
+<edge source="UAE North Router" target="Southeast Asia Router"/>
+<edge source="Central India Router" target="South India Router"/>
+<edge source="Central India Router" target="India South Central Router"/>
+<edge source="South India Router" target="Southeast Asia Router"/>
+<edge source="South India Router" target="India South Central Router"/>
+<edge source="Southeast Asia Router" target="East Asia Router"/>
+<edge source="Southeast Asia Router" target="Korea Central Router"/>
+<edge source="Southeast Asia Router" target="Japan East Router"/>
+<edge source="Southeast Asia Router" target="Malaysia West Router"/>
+<edge source="Southeast Asia Router" target="Indonesia Central Router"/>
+<edge source="Southeast Asia Router" target="Australia Southeast Router"/>
+<edge source="East Asia Router" target="China North Router"/>
+<edge source="East Asia Router" target="China East Router"/>
+<edge source="East Asia Router" target="China East 2 Router"/>
+<edge source="East Asia Router" target="Korea Central Router"/>
+<edge source="East Asia Router" target="Japan East Router"/>
+<edge source="East Asia Router" target="Taiwan North Router"/>
+<edge source="East Asia Router" target="Australia Central Router"/>
+<edge source="China North Router" target="China North 3 Router"/>
+<edge source="China North Router" target="China North 2 Router"/>
+<edge source="China North 3 Router" target="China North 2 Router"/>
+<edge source="China North 2 Router" target="China East Router"/>
+<edge source="China East 2 Router" target="China East Router"/>
+<edge source="China East Router" target="Japan West Router"/>
+<edge source="China East Router" target="Korea Central Router"/>
+<edge source="Korea Central Router" target="Japan West Router"/>
+<edge source="Korea Central Router" target="Japan East Router"/>
+<edge source="Korea Central Router" target="Taiwan North Router"/>
+<edge source="Japan West Router" target="Japan East Router"/>
+<edge source="Japan East Router" target="Taiwan North Router"/>
+<edge source="Japan East Router" target="Australia Central Router"/>
+<edge source="Australia Southeast Router" target="Australia East Router"/>
+<edge source="Australia Southeast Router" target="Australia Central Router"/>
+<edge source="Australia East Router" target="Australia Central Router"/>
+<edge source="Australia Central Router" target="New Zealand North Router"/>
+</graph></graphml>

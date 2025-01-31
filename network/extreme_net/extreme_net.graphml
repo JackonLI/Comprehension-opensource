@@ -1,0 +1,1924 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="pos" attr.type="string"/>
+<key id="d0" for="node" attr.name="location" attr.type="string"/>
+<graph edgedefault="undirected"><node id="West US 2 A Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.872977944803445, -77.04045171575598)</data>
+</node>
+<node id="West US 2 B Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.847436815369925, -76.96239725827589)</data>
+</node>
+<node id="West US 2 C Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.84290970415419, -77.076122250204)</data>
+</node>
+<node id="West US 2 D Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.961870257450876, -76.9762499521869)</data>
+</node>
+<node id="West US 2 E Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.907582894895825, -77.01888387836598)</data>
+</node>
+<node id="West US 2 F Router">
+  <data key="d0">Washington</data>
+  <data key="d1">(38.89048301404375, -76.99043479088542)</data>
+</node>
+<node id="West US A Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.74396071798203, -119.38124810297184)</data>
+</node>
+<node id="West US B Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.84323683776046, -119.41555467411314)</data>
+</node>
+<node id="West US C Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.69584939919712, -119.41883262876703)</data>
+</node>
+<node id="West US D Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.722693054761606, -119.49393624651321)</data>
+</node>
+<node id="West US E Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.71468789954543, -119.37223994456058)</data>
+</node>
+<node id="West US F Router">
+  <data key="d0">California</data>
+  <data key="d1">(36.77062962680469, -119.46029043707318)</data>
+</node>
+<node id="West US 3 A Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(34.107448506743374, -111.13701715312314)</data>
+</node>
+<node id="West US 3 B Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(34.04526686313924, -111.04439552342907)</data>
+</node>
+<node id="West US 3 C Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(33.969119372839565, -111.0124768000135)</data>
+</node>
+<node id="West US 3 D Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(34.1450418228984, -111.06266748228138)</data>
+</node>
+<node id="West US 3 E Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(34.00398037148342, -111.18967131636268)</data>
+</node>
+<node id="West US 3 F Router">
+  <data key="d0">Arizona</data>
+  <data key="d1">(34.08948193461622, -111.08060007056405)</data>
+</node>
+<node id="West Central US A Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(43.017645264469756, -107.2339416390418)</data>
+</node>
+<node id="West Central US B Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(42.98552218064528, -107.2618830417963)</data>
+</node>
+<node id="West Central US C Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(43.174108326021496, -107.26559566775133)</data>
+</node>
+<node id="West Central US D Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(43.05091999933023, -107.3392100640358)</data>
+</node>
+<node id="West Central US E Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(43.155316164738835, -107.26885048375787)</data>
+</node>
+<node id="West Central US F Router">
+  <data key="d0">Wyoming</data>
+  <data key="d1">(43.09484541390369, -107.2223520016772)</data>
+</node>
+<node id="Mexico Central A Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.580973620792538, -100.45274979908244)</data>
+</node>
+<node id="Mexico Central B Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.58849174824007, -100.45841409076958)</data>
+</node>
+<node id="Mexico Central C Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.526767757230605, -100.3226697932208)</data>
+</node>
+<node id="Mexico Central D Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.66983461054938, -100.34753340472145)</data>
+</node>
+<node id="Mexico Central E Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.495977052537366, -100.4509147289586)</data>
+</node>
+<node id="Mexico Central F Router">
+  <data key="d0">Queretaro State</data>
+  <data key="d1">(20.627467728944595, -100.38346710593336)</data>
+</node>
+<node id="South Central US A Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(32.02602334270322, -99.81416725127696)</data>
+</node>
+<node id="South Central US B Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(31.93076127310867, -99.84751129716908)</data>
+</node>
+<node id="South Central US C Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(31.974034179513563, -99.81006449636993)</data>
+</node>
+<node id="South Central US D Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(31.86867188127552, -99.93661742394613)</data>
+</node>
+<node id="South Central US E Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(32.06414697513221, -99.80535492755214)</data>
+</node>
+<node id="South Central US F Router">
+  <data key="d0">Texas</data>
+  <data key="d1">(31.910390625103606, -99.89694006808544)</data>
+</node>
+<node id="Central US A Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.973930256657944, -93.18009160503723)</data>
+</node>
+<node id="Central US B Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.91830531361228, -93.04845765131097)</data>
+</node>
+<node id="Central US C Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.78873051651227, -93.16744240535735)</data>
+</node>
+<node id="Central US D Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.782741961431334, -93.1027379935853)</data>
+</node>
+<node id="Central US E Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.78663350149756, -93.00622699305485)</data>
+</node>
+<node id="Central US F Router">
+  <data key="d0">Iowa</data>
+  <data key="d1">(41.826617415173395, -93.01666189263618)</data>
+</node>
+<node id="North Central US A Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.5783579295301, -89.4342061840901)</data>
+</node>
+<node id="North Central US B Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.666251473276354, -89.38543210894252)</data>
+</node>
+<node id="North Central US C Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.55369680808827, -89.42424412958673)</data>
+</node>
+<node id="North Central US D Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.56640693874858, -89.33337972022768)</data>
+</node>
+<node id="North Central US E Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.6699859059249, -89.40734022779942)</data>
+</node>
+<node id="North Central US F Router">
+  <data key="d0">Illinois</data>
+  <data key="d1">(40.700812015434344, -89.43266521304386)</data>
+</node>
+<node id="East US 3 A Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.817036104674905, -84.38611534750895)</data>
+</node>
+<node id="East US 3 B Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.75923482650629, -84.35497257740562)</data>
+</node>
+<node id="East US 3 C Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.826651813286524, -84.37109824388091)</data>
+</node>
+<node id="East US 3 D Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.6613806652522, -84.38157260931689)</data>
+</node>
+<node id="East US 3 E Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.75080979867453, -84.38030017434627)</data>
+</node>
+<node id="East US 3 F Router">
+  <data key="d0">Georgia</data>
+  <data key="d1">(33.70864806888441, -84.3383340089973)</data>
+</node>
+<node id="East US 2 A Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.406776412192706, -78.57241722923563)</data>
+</node>
+<node id="East US 2 B Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.35835565457554, -78.59208693455317)</data>
+</node>
+<node id="East US 2 C Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.3555619629204, -78.73459273987959)</data>
+</node>
+<node id="East US 2 D Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.41034694892174, -78.57170416136337)</data>
+</node>
+<node id="East US 2 E Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.477187332423874, -78.7520645226131)</data>
+</node>
+<node id="East US 2 F Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.33513387941339, -78.57623244910148)</data>
+</node>
+<node id="East US A Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.536983308200305, -77.40160767850834)</data>
+</node>
+<node id="East US B Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.509257296069705, -77.39761160513184)</data>
+</node>
+<node id="East US C Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.48983936232519, -77.53012222922479)</data>
+</node>
+<node id="East US D Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.53035023067217, -77.41045462064369)</data>
+</node>
+<node id="East US E Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.459103148922914, -77.4925166260303)</data>
+</node>
+<node id="East US F Router">
+  <data key="d0">Virginia</data>
+  <data key="d1">(37.610201153497286, -77.37852938414721)</data>
+</node>
+<node id="Canada Central A Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.6314559856438, -79.47119351484056)</data>
+</node>
+<node id="Canada Central B Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.57303520453866, -79.44304666965087)</data>
+</node>
+<node id="Canada Central C Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.64442596142821, -79.42468436976282)</data>
+</node>
+<node id="Canada Central D Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.642752262610415, -79.30324278871267)</data>
+</node>
+<node id="Canada Central E Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.6653834374937, -79.46057658232606)</data>
+</node>
+<node id="Canada Central F Router">
+  <data key="d0">Toronto</data>
+  <data key="d1">(43.662429716198105, -79.39115162566011)</data>
+</node>
+<node id="Canada East A Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.76706076223299, -71.20641665336734)</data>
+</node>
+<node id="Canada East B Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.88440855477947, -71.11944218271853)</data>
+</node>
+<node id="Canada East C Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.810744684908975, -71.20788275689857)</data>
+</node>
+<node id="Canada East D Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.85266534854718, -71.23419110032383)</data>
+</node>
+<node id="Canada East E Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.77674373152308, -71.28538564023081)</data>
+</node>
+<node id="Canada East F Router">
+  <data key="d0">Quebec City</data>
+  <data key="d1">(46.876935754201575, -71.18622151726012)</data>
+</node>
+<node id="Brazil South A Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.56446891906018, -46.71052295708694)</data>
+</node>
+<node id="Brazil South B Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.63275093819771, -46.677885055321966)</data>
+</node>
+<node id="Brazil South C Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.55155509075364, -46.56310883316271)</data>
+</node>
+<node id="Brazil South D Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.624013219112914, -46.57715711192733)</data>
+</node>
+<node id="Brazil South E Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.592642149078266, -46.652400919924006)</data>
+</node>
+<node id="Brazil South F Router">
+  <data key="d0">Sao Paulo State</data>
+  <data key="d1">(-23.58493494853661, -46.60474736987359)</data>
+</node>
+<node id="Chile Central A Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.52055098013614, -70.6096952660016)</data>
+</node>
+<node id="Chile Central B Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.46820349819959, -70.74031220241369)</data>
+</node>
+<node id="Chile Central C Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.5468480111253, -70.73661630612968)</data>
+</node>
+<node id="Chile Central D Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.44266431552499, -70.74063227817267)</data>
+</node>
+<node id="Chile Central E Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.43956828052706, -70.64193208288897)</data>
+</node>
+<node id="Chile Central F Router">
+  <data key="d0">Santiago</data>
+  <data key="d1">(-33.39978652347653, -70.58992734325898)</data>
+</node>
+<node id="North Europe A Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.22751545083885, -7.723701903292599)</data>
+</node>
+<node id="North Europe B Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.19811029579931, -7.789285134587409)</data>
+</node>
+<node id="North Europe C Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.19623031091645, -7.789044742571843)</data>
+</node>
+<node id="North Europe D Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.18716622052298, -7.685463268348359)</data>
+</node>
+<node id="North Europe E Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.13009143481716, -7.766655503166636)</data>
+</node>
+<node id="North Europe F Router">
+  <data key="d0">Ireland</data>
+  <data key="d1">(53.065064152406144, -7.76555584758982)</data>
+</node>
+<node id="UK West A Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.38307524153462, -3.164072775717004)</data>
+</node>
+<node id="UK West B Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.55619860585662, -3.1586389408508877)</data>
+</node>
+<node id="UK West C Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.52401115302539, -3.2752305258026744)</data>
+</node>
+<node id="UK West D Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.43893642332727, -3.1712719075605262)</data>
+</node>
+<node id="UK West E Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.398799131758224, -3.1612270446550164)</data>
+</node>
+<node id="UK West F Router">
+  <data key="d0">Cardiff</data>
+  <data key="d1">(51.54500349524464, -3.101470547334216)</data>
+</node>
+<node id="UK South A Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.480420304880155, -0.1672746577645738)</data>
+</node>
+<node id="UK South B Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.55287510162039, -0.2057072261236075)</data>
+</node>
+<node id="UK South C Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.527492023481784, -0.19097898906018146)</data>
+</node>
+<node id="UK South D Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.41584001620516, -0.18202009963485238)</data>
+</node>
+<node id="UK South E Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.59854536882653, -0.1977323197489426)</data>
+</node>
+<node id="UK South F Router">
+  <data key="d0">London</data>
+  <data key="d1">(51.447451285239886, -0.04486421990686709)</data>
+</node>
+<node id="Spain Central A Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.420699631022785, -3.729611080653887)</data>
+</node>
+<node id="Spain Central B Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.511170315324215, -3.659267132558096)</data>
+</node>
+<node id="Spain Central C Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.488344044743364, -3.62165294545607)</data>
+</node>
+<node id="Spain Central D Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.49575631431715, -3.635770336835876)</data>
+</node>
+<node id="Spain Central E Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.48283205302067, -3.739221944091376)</data>
+</node>
+<node id="Spain Central F Router">
+  <data key="d0">Madrid</data>
+  <data key="d1">(40.338910918892175, -3.7510561163592553)</data>
+</node>
+<node id="France Central A Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.85099084756568, 2.428121261421203)</data>
+</node>
+<node id="France Central B Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.76767381617332, 2.2949336577126913)</data>
+</node>
+<node id="France Central C Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.919593807638485, 2.4469553058939475)</data>
+</node>
+<node id="France Central D Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.94871626379806, 2.2653790856238794)</data>
+</node>
+<node id="France Central E Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.768533906372795, 2.2779440901502093)</data>
+</node>
+<node id="France Central F Router">
+  <data key="d0">Paris</data>
+  <data key="d1">(48.835277750689876, 2.2559187487190417)</data>
+</node>
+<node id="West Europe A Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.282800721586824, 4.812098555891449)</data>
+</node>
+<node id="West Europe B Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.27761320831111, 4.957839428891443)</data>
+</node>
+<node id="West Europe C Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.331598201298426, 4.967142512591396)</data>
+</node>
+<node id="West Europe D Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.29531380953195, 4.941714769836154)</data>
+</node>
+<node id="West Europe E Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.371375982053706, 4.948754672671542)</data>
+</node>
+<node id="West Europe F Router">
+  <data key="d0">Netherlands</data>
+  <data key="d1">(52.44778926742114, 4.830418019349309)</data>
+</node>
+<node id="Germany West Central A Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.148822016293586, 8.609775736133884)</data>
+</node>
+<node id="Germany West Central B Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.19446080085134, 8.582249605756992)</data>
+</node>
+<node id="Germany West Central C Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.14041041215799, 8.63445187575864)</data>
+</node>
+<node id="Germany West Central D Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.10147556265638, 8.68951138979198)</data>
+</node>
+<node id="Germany West Central E Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.149369465061724, 8.692879522320197)</data>
+</node>
+<node id="Germany West Central F Router">
+  <data key="d0">Frankfurt</data>
+  <data key="d1">(50.095243786508, 8.76856125725038)</data>
+</node>
+<node id="Switzerland North A Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.39903482364563, 8.447625112926971)</data>
+</node>
+<node id="Switzerland North B Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.36386473660415, 8.551783910038766)</data>
+</node>
+<node id="Switzerland North C Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.47552084812408, 8.570537407029093)</data>
+</node>
+<node id="Switzerland North D Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.301629595996765, 8.56341443745073)</data>
+</node>
+<node id="Switzerland North E Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.29886518224128, 8.563275455200031)</data>
+</node>
+<node id="Switzerland North F Router">
+  <data key="d0">Zurich</data>
+  <data key="d1">(47.404921757538204, 8.445275070180715)</data>
+</node>
+<node id="Italy North A Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.45876242960131, 9.206738833489469)</data>
+</node>
+<node id="Italy North B Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.402619559035934, 9.25640625203453)</data>
+</node>
+<node id="Italy North C Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.37356312248519, 9.118545207088125)</data>
+</node>
+<node id="Italy North D Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.412879994495725, 9.120795847348418)</data>
+</node>
+<node id="Italy North E Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.43542527179857, 9.090092525944621)</data>
+</node>
+<node id="Italy North F Router">
+  <data key="d0">Milan</data>
+  <data key="d1">(45.50644669840407, 9.104953534416847)</data>
+</node>
+<node id="Norway East A Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.991802627498394, 10.824678701311363)</data>
+</node>
+<node id="Norway East B Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.922414653655274, 10.840581549584627)</data>
+</node>
+<node id="Norway East C Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.99057454577754, 10.815876557756534)</data>
+</node>
+<node id="Norway East D Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.98546479583964, 10.74919644811626)</data>
+</node>
+<node id="Norway East E Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.826325776652126, 10.800802989893592)</data>
+</node>
+<node id="Norway East F Router">
+  <data key="d0">Oslo</data>
+  <data key="d1">(59.96008304180865, 10.733751384809464)</data>
+</node>
+<node id="Sweden Central A Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.68233383374485, 17.193024049482034)</data>
+</node>
+<node id="Sweden Central B Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.61261220965468, 17.155773973935844)</data>
+</node>
+<node id="Sweden Central C Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.68217033022471, 17.07659077517601)</data>
+</node>
+<node id="Sweden Central D Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.63762390760634, 17.232983122988433)</data>
+</node>
+<node id="Sweden Central E Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.7326004314931, 17.189656511608554)</data>
+</node>
+<node id="Sweden Central F Router">
+  <data key="d0">Gavle and Sandviken</data>
+  <data key="d1">(60.62618488091383, 17.078505703219072)</data>
+</node>
+<node id="Poland Central A Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.23918627702633, 20.95180313994891)</data>
+</node>
+<node id="Poland Central B Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.26809758410792, 21.027603813647016)</data>
+</node>
+<node id="Poland Central C Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.19686975545288, 21.014161598779335)</data>
+</node>
+<node id="Poland Central D Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.17773464706867, 20.948331876399546)</data>
+</node>
+<node id="Poland Central E Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.243671071892216, 21.002171982658435)</data>
+</node>
+<node id="Poland Central F Router">
+  <data key="d0">Warsaw</data>
+  <data key="d1">(52.24533370565008, 20.921904601836733)</data>
+</node>
+<node id="Belgium Central A Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.76982445027366, 4.376443410314859)</data>
+</node>
+<node id="Belgium Central B Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.869255497526304, 4.385303197842038)</data>
+</node>
+<node id="Belgium Central C Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.84018805897962, 4.4230696392904925)</data>
+</node>
+<node id="Belgium Central D Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.9185027774578, 4.419391235515353)</data>
+</node>
+<node id="Belgium Central E Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.917388103177515, 4.450826481789329)</data>
+</node>
+<node id="Belgium Central F Router">
+  <data key="d0">Brussels</data>
+  <data key="d1">(50.85754987061037, 4.415512453943867)</data>
+</node>
+<node id="Denmark East A Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.58718974830716, 12.540502304657773)</data>
+</node>
+<node id="Denmark East B Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.63683669070391, 12.647886260505592)</data>
+</node>
+<node id="Denmark East C Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.70471555234688, 12.516106673365718)</data>
+</node>
+<node id="Denmark East D Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.75824052094395, 12.58346191830707)</data>
+</node>
+<node id="Denmark East E Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.57871005861662, 12.585343309263008)</data>
+</node>
+<node id="Denmark East F Router">
+  <data key="d0">Copenhagen</data>
+  <data key="d1">(55.658280181321615, 12.528265703044646)</data>
+</node>
+<node id="Finland Central A Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.16474148183443, 24.917342589370147)</data>
+</node>
+<node id="Finland Central B Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.170880886702854, 24.892014339713626)</data>
+</node>
+<node id="Finland Central C Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.07967913974845, 24.927126460541736)</data>
+</node>
+<node id="Finland Central D Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.200715249434666, 24.936623201043204)</data>
+</node>
+<node id="Finland Central E Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.24710702563402, 24.842197765805686)</data>
+</node>
+<node id="Finland Central F Router">
+  <data key="d0">Helsinki</data>
+  <data key="d1">(60.22348511734514, 24.915854153892)</data>
+</node>
+<node id="Austria East A Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.299536985059966, 16.409298922176635)</data>
+</node>
+<node id="Austria East B Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.21403083458568, 16.316271633276276)</data>
+</node>
+<node id="Austria East C Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.19298332979026, 16.34030302945063)</data>
+</node>
+<node id="Austria East D Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.22915681131539, 16.341501673012896)</data>
+</node>
+<node id="Austria East E Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.16578583284505, 16.47342571915586)</data>
+</node>
+<node id="Austria East F Router">
+  <data key="d0">Vienna</data>
+  <data key="d1">(48.21945668978336, 16.428557845505978)</data>
+</node>
+<node id="Greece Central A Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(38.04108694366747, 23.649303249275917)</data>
+</node>
+<node id="Greece Central B Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(38.060230394153976, 23.70349391946455)</data>
+</node>
+<node id="Greece Central C Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(38.03088272961021, 23.64295628742189)</data>
+</node>
+<node id="Greece Central D Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(37.97649769493969, 23.752266992650384)</data>
+</node>
+<node id="Greece Central E Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(38.0526516547256, 23.717982159017534)</data>
+</node>
+<node id="Greece Central F Router">
+  <data key="d0">Athens</data>
+  <data key="d1">(38.006558805069965, 23.74730347174635)</data>
+</node>
+<node id="South Africa North A Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.180919624918825, 27.985032920069948)</data>
+</node>
+<node id="South Africa North B Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.148574304179448, 28.07952670911902)</data>
+</node>
+<node id="South Africa North C Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.14350201204898, 27.968272852095396)</data>
+</node>
+<node id="South Africa North D Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.24930641617873, 28.114404007639312)</data>
+</node>
+<node id="South Africa North E Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.14539003569776, 27.968976940407792)</data>
+</node>
+<node id="South Africa North F Router">
+  <data key="d0">Johannesburg</data>
+  <data key="d1">(-26.224638824096452, 27.95678406836793)</data>
+</node>
+<node id="Israel Central A Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(31.117948771560282, 34.899989612702676)</data>
+</node>
+<node id="Israel Central B Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(31.065446340369082, 34.9065532229363)</data>
+</node>
+<node id="Israel Central C Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(31.094256673408626, 34.80283619021743)</data>
+</node>
+<node id="Israel Central D Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(30.98576714601441, 34.77412856645204)</data>
+</node>
+<node id="Israel Central E Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(31.045064544902978, 34.7715960624253)</data>
+</node>
+<node id="Israel Central F Router">
+  <data key="d0">Israel</data>
+  <data key="d1">(31.086839810049387, 34.90650658507897)</data>
+</node>
+<node id="Qatar Central A Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.301778034254625, 51.53321527511839)</data>
+</node>
+<node id="Qatar Central B Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.360541053127466, 51.449153668331846)</data>
+</node>
+<node id="Qatar Central C Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.31571591639179, 51.61082780387493)</data>
+</node>
+<node id="Qatar Central D Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.283826572895887, 51.47767450383846)</data>
+</node>
+<node id="Qatar Central E Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.21367064433246, 51.57688505825908)</data>
+</node>
+<node id="Qatar Central F Router">
+  <data key="d0">Doha</data>
+  <data key="d1">(25.270672246498453, 51.50234022238506)</data>
+</node>
+<node id="UAE North A Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.224730205066457, 55.19269103628819)</data>
+</node>
+<node id="UAE North B Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.278586700903862, 55.318801914182984)</data>
+</node>
+<node id="UAE North C Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.127125659737242, 55.27244786165702)</data>
+</node>
+<node id="UAE North D Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.238917113198905, 55.31828333474895)</data>
+</node>
+<node id="UAE North E Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.209504798614226, 55.27604145215207)</data>
+</node>
+<node id="UAE North F Router">
+  <data key="d0">Dubai</data>
+  <data key="d1">(25.231856733595237, 55.21540753232726)</data>
+</node>
+<node id="Central India A Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.43808419034234, 73.78362676578706)</data>
+</node>
+<node id="Central India B Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.559800265111722, 73.92009910258393)</data>
+</node>
+<node id="Central India C Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.608906326207745, 73.8729481264566)</data>
+</node>
+<node id="Central India D Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.50986926002352, 73.80295765722542)</data>
+</node>
+<node id="Central India E Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.504586760312158, 73.83506397118613)</data>
+</node>
+<node id="Central India F Router">
+  <data key="d0">Pune</data>
+  <data key="d1">(18.45014739790416, 73.84300044375013)</data>
+</node>
+<node id="South India A Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.143682447602966, 80.19247634125779)</data>
+</node>
+<node id="South India B Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.122980097372947, 80.20018974776983)</data>
+</node>
+<node id="South India C Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.099797325438013, 80.27916607769586)</data>
+</node>
+<node id="South India D Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.042645689425031, 80.1822835299999)</data>
+</node>
+<node id="South India E Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.001527643092523, 80.35351177534912)</data>
+</node>
+<node id="South India F Router">
+  <data key="d0">Chennai</data>
+  <data key="d1">(13.071858752206982, 80.2579429645047)</data>
+</node>
+<node id="Southeast Asia A Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.3906107453046246, 103.82497840102299)</data>
+</node>
+<node id="Southeast Asia B Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.2820490231532298, 103.82551448056587)</data>
+</node>
+<node id="Southeast Asia C Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.4273492297301784, 103.90864403958433)</data>
+</node>
+<node id="Southeast Asia D Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.3638754094871741, 103.82163614789005)</data>
+</node>
+<node id="Southeast Asia E Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.355577563537382, 103.81566417356142)</data>
+</node>
+<node id="Southeast Asia F Router">
+  <data key="d0">Singapore</data>
+  <data key="d1">(1.4435062545663775, 103.8756505048378)</data>
+</node>
+<node id="East Asia A Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.257760531806372, 114.24687994774764)</data>
+</node>
+<node id="East Asia B Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.363343995908373, 114.19153991625335)</data>
+</node>
+<node id="East Asia C Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.229194200649985, 114.24394728440257)</data>
+</node>
+<node id="East Asia D Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.33978353862623, 114.1444392549874)</data>
+</node>
+<node id="East Asia E Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.246043198285367, 114.15250182806913)</data>
+</node>
+<node id="East Asia F Router">
+  <data key="d0">Hong Kong</data>
+  <data key="d1">(22.343084574710836, 114.13273329843592)</data>
+</node>
+<node id="China North A Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.923421893382276, 116.4774228720544)</data>
+</node>
+<node id="China North B Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.80971636160093, 116.3728333585277)</data>
+</node>
+<node id="China North C Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.92655718594006, 116.33484474241111)</data>
+</node>
+<node id="China North D Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.90230469096844, 116.41788402325041)</data>
+</node>
+<node id="China North E Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.916932872249625, 116.50076732524623)</data>
+</node>
+<node id="China North F Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.89035165771845, 116.47797911602657)</data>
+</node>
+<node id="China North 3 A Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(38.9677821486838, 116.32758879699576)</data>
+</node>
+<node id="China North 3 B Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(39.03984779744587, 116.31586998451571)</data>
+</node>
+<node id="China North 3 C Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(38.98256127993495, 116.19541697120648)</data>
+</node>
+<node id="China North 3 D Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(38.97410758182878, 116.29765689522844)</data>
+</node>
+<node id="China North 3 E Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(39.114250783000706, 116.21960106799477)</data>
+</node>
+<node id="China North 3 F Router">
+  <data key="d0">Hebei</data>
+  <data key="d1">(39.04619537542981, 116.31187093761189)</data>
+</node>
+<node id="China North 2 A Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.92517981024652, 116.40387248860551)</data>
+</node>
+<node id="China North 2 B Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.993151702256974, 116.4630911890155)</data>
+</node>
+<node id="China North 2 C Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.856367962695025, 116.47682363066502)</data>
+</node>
+<node id="China North 2 D Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.80793813324901, 116.40060657422842)</data>
+</node>
+<node id="China North 2 E Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.969801816430895, 116.4335032471009)</data>
+</node>
+<node id="China North 2 F Router">
+  <data key="d0">Beijing</data>
+  <data key="d1">(39.92991225261135, 116.48518269528695)</data>
+</node>
+<node id="China East 2 A Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.184413971479053, 121.3939245383393)</data>
+</node>
+<node id="China East 2 B Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.318266841567407, 121.52868079502014)</data>
+</node>
+<node id="China East 2 C Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.30460522324573, 121.37652830238706)</data>
+</node>
+<node id="China East 2 D Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.159347655687846, 121.42867116304733)</data>
+</node>
+<node id="China East 2 E Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.323785318432996, 121.46843608201863)</data>
+</node>
+<node id="China East 2 F Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.307927808866932, 121.46771376769793)</data>
+</node>
+<node id="China East A Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.136753306185977, 121.52157645076913)</data>
+</node>
+<node id="China East B Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.193963844564614, 121.52015517910627)</data>
+</node>
+<node id="China East C Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.255705936740426, 121.50080673025914)</data>
+</node>
+<node id="China East D Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.30228595493877, 121.47069295665679)</data>
+</node>
+<node id="China East E Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.25631671572585, 121.54520194139597)</data>
+</node>
+<node id="China East F Router">
+  <data key="d0">Shanghai</data>
+  <data key="d1">(31.240799543716545, 121.38291312791249)</data>
+</node>
+<node id="Korea Central A Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.62620918170617, 126.90239501113287)</data>
+</node>
+<node id="Korea Central B Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.628899130816144, 126.88630937833366)</data>
+</node>
+<node id="Korea Central C Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.63836873582953, 127.04246025618143)</data>
+</node>
+<node id="Korea Central D Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.517462520745966, 126.9861502400831)</data>
+</node>
+<node id="Korea Central E Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.54624673829748, 126.91479475660928)</data>
+</node>
+<node id="Korea Central F Router">
+  <data key="d0">Seoul</data>
+  <data key="d1">(37.61827493549432, 126.8865807614773)</data>
+</node>
+<node id="Japan West A Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.6571475478683, 135.55764502597475)</data>
+</node>
+<node id="Japan West B Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.784400128032324, 135.5456013602253)</data>
+</node>
+<node id="Japan West C Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.655169876072655, 135.58840457870465)</data>
+</node>
+<node id="Japan West D Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.66346438504068, 135.4633991506512)</data>
+</node>
+<node id="Japan West E Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.700326319813485, 135.4902911788743)</data>
+</node>
+<node id="Japan West F Router">
+  <data key="d0">Osaka</data>
+  <data key="d1">(34.69583322467972, 135.40347032138155)</data>
+</node>
+<node id="Japan East A Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.59198089150342, 139.77771286285716)</data>
+</node>
+<node id="Japan East B Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.786796597315515, 139.69720776283464)</data>
+</node>
+<node id="Japan East C Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.654659257258764, 139.59723466798195)</data>
+</node>
+<node id="Japan East D Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.678563609617925, 139.74542077099045)</data>
+</node>
+<node id="Japan East E Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.68805694096822, 139.7752247949122)</data>
+</node>
+<node id="Japan East F Router">
+  <data key="d0">Tokyo</data>
+  <data key="d1">(35.62701639836866, 139.77042236187688)</data>
+</node>
+<node id="Saudi Arabia East A Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.342673780337584, 49.997059704116836)</data>
+</node>
+<node id="Saudi Arabia East B Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.472456076776453, 49.99147599871721)</data>
+</node>
+<node id="Saudi Arabia East C Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.417978843088665, 50.07228067974598)</data>
+</node>
+<node id="Saudi Arabia East D Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.362067193296234, 50.01585279648887)</data>
+</node>
+<node id="Saudi Arabia East E Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.360657644330985, 49.98010390819229)</data>
+</node>
+<node id="Saudi Arabia East F Router">
+  <data key="d0">Dammam</data>
+  <data key="d1">(26.356988121773288, 50.04532691898046)</data>
+</node>
+<node id="India South Central A Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.459610856705464, 78.47683211595812)</data>
+</node>
+<node id="India South Central B Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.357855431060262, 78.51972950881493)</data>
+</node>
+<node id="India South Central C Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.418407097100644, 78.44529201436198)</data>
+</node>
+<node id="India South Central D Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.298629188091777, 78.5839295595815)</data>
+</node>
+<node id="India South Central E Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.442475643910548, 78.48028949452484)</data>
+</node>
+<node id="India South Central F Router">
+  <data key="d0">Hyderabad</data>
+  <data key="d1">(17.39299648649812, 78.44884811070803)</data>
+</node>
+<node id="Malaysia West A Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.0924352716897245, 101.71250042441426)</data>
+</node>
+<node id="Malaysia West B Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.10078657215211, 101.71692232450124)</data>
+</node>
+<node id="Malaysia West C Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.212863494272624, 101.77983370656618)</data>
+</node>
+<node id="Malaysia West D Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.1300976357718286, 101.70358417286893)</data>
+</node>
+<node id="Malaysia West E Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.1274234562117322, 101.62699820598164)</data>
+</node>
+<node id="Malaysia West F Router">
+  <data key="d0">Kuala Lumpur</data>
+  <data key="d1">(3.172120394419889, 101.65544477505827)</data>
+</node>
+<node id="Indonesia Central A Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.150082332193963, 106.78802940476353)</data>
+</node>
+<node id="Indonesia Central B Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.112502064576849, 106.85630880361734)</data>
+</node>
+<node id="Indonesia Central C Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.214940610159036, 106.93688071872145)</data>
+</node>
+<node id="Indonesia Central D Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.198625053493265, 106.82516401175883)</data>
+</node>
+<node id="Indonesia Central E Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.174920274070775, 106.81639285515185)</data>
+</node>
+<node id="Indonesia Central F Router">
+  <data key="d0">Jakarta</data>
+  <data key="d1">(-6.195860668495373, 106.89527178644254)</data>
+</node>
+<node id="Taiwan North A Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(25.111665628161987, 121.49894608315743)</data>
+</node>
+<node id="Taiwan North B Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(24.998979852621282, 121.6651761768529)</data>
+</node>
+<node id="Taiwan North C Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(25.00312726834797, 121.57858838526477)</data>
+</node>
+<node id="Taiwan North D Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(25.04649334748986, 121.6223619627656)</data>
+</node>
+<node id="Taiwan North E Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(25.01780361043064, 121.48322825122278)</data>
+</node>
+<node id="Taiwan North F Router">
+  <data key="d0">Taipei</data>
+  <data key="d1">(25.003531905853638, 121.50190973610333)</data>
+</node>
+<node id="Australia Southeast A Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.79432584802338, 144.99883153206179)</data>
+</node>
+<node id="Australia Southeast B Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.85878493962941, 145.05604515610398)</data>
+</node>
+<node id="Australia Southeast C Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.7592998357749, 145.03307843944134)</data>
+</node>
+<node id="Australia Southeast D Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.79620770644807, 145.0421867687256)</data>
+</node>
+<node id="Australia Southeast E Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.73900130206722, 144.94069071341764)</data>
+</node>
+<node id="Australia Southeast F Router">
+  <data key="d0">Victoria</data>
+  <data key="d1">(-37.79161050377503, 144.95467065938203)</data>
+</node>
+<node id="Australia East A Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.8506777058259, 151.30660503297892)</data>
+</node>
+<node id="Australia East B Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.871726983489566, 151.23473508773213)</data>
+</node>
+<node id="Australia East C Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.79422074939183, 151.2831085234538)</data>
+</node>
+<node id="Australia East D Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.80670904655884, 151.14732531192925)</data>
+</node>
+<node id="Australia East E Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.811047421168574, 151.1894510425612)</data>
+</node>
+<node id="Australia East F Router">
+  <data key="d0">New South Wales</data>
+  <data key="d1">(-33.850205859065596, 151.2971493513539)</data>
+</node>
+<node id="Australia Central A Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.30889091880436, 149.03099704593387)</data>
+</node>
+<node id="Australia Central B Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.25035227294842, 149.11389676535822)</data>
+</node>
+<node id="Australia Central C Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.20137199764978, 149.20494853734954)</data>
+</node>
+<node id="Australia Central D Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.27844619730082, 149.16485483646824)</data>
+</node>
+<node id="Australia Central E Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.370097128370304, 149.125805633602)</data>
+</node>
+<node id="Australia Central F Router">
+  <data key="d0">Canberra</data>
+  <data key="d1">(-35.271171475865735, 149.13111594124666)</data>
+</node>
+<node id="New Zealand North A Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.76084879578519, 174.70232955255733)</data>
+</node>
+<node id="New Zealand North B Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.76927932568602, 174.67130814679857)</data>
+</node>
+<node id="New Zealand North C Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.74959931345444, 174.66814548536084)</data>
+</node>
+<node id="New Zealand North D Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.90771929975884, 174.7942987640068)</data>
+</node>
+<node id="New Zealand North E Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.75749534152879, 174.66683456280373)</data>
+</node>
+<node id="New Zealand North F Router">
+  <data key="d0">Auckland</data>
+  <data key="d1">(-36.94834931872084, 174.86154140861072)</data>
+</node>
+<edge source="West US 2 A Router" target="West US 2 B Router"/>
+<edge source="West US 2 A Router" target="West US 2 F Router"/>
+<edge source="West US 2 A Router" target="West Central US B Router"/>
+<edge source="West US 2 B Router" target="West US 2 C Router"/>
+<edge source="West US 2 C Router" target="West US 2 D Router"/>
+<edge source="West US 2 D Router" target="West US 2 E Router"/>
+<edge source="West US 2 D Router" target="West US D Router"/>
+<edge source="West US 2 E Router" target="West US 2 F Router"/>
+<edge source="West US 2 E Router" target="West US C Router"/>
+<edge source="West US 2 E Router" target="West Central US E Router"/>
+<edge source="West US 2 E Router" target="Japan East C Router"/>
+<edge source="West US 2 F Router" target="Japan East F Router"/>
+<edge source="West US A Router" target="West US B Router"/>
+<edge source="West US A Router" target="West US F Router"/>
+<edge source="West US A Router" target="West US 3 F Router"/>
+<edge source="West US A Router" target="East Asia D Router"/>
+<edge source="West US A Router" target="Southeast Asia A Router"/>
+<edge source="West US B Router" target="West US C Router"/>
+<edge source="West US B Router" target="Southeast Asia B Router"/>
+<edge source="West US C Router" target="West US D Router"/>
+<edge source="West US C Router" target="West US 3 A Router"/>
+<edge source="West US C Router" target="West Central US E Router"/>
+<edge source="West US D Router" target="West US E Router"/>
+<edge source="West US E Router" target="West US F Router"/>
+<edge source="West US E Router" target="Australia Central A Router"/>
+<edge source="West US E Router" target="Australia Central C Router"/>
+<edge source="West US F Router" target="West Central US E Router"/>
+<edge source="West US F Router" target="East Asia B Router"/>
+<edge source="West US 3 A Router" target="West US 3 B Router"/>
+<edge source="West US 3 A Router" target="West US 3 F Router"/>
+<edge source="West US 3 B Router" target="West US 3 C Router"/>
+<edge source="West US 3 B Router" target="South Central US E Router"/>
+<edge source="West US 3 C Router" target="West US 3 D Router"/>
+<edge source="West US 3 C Router" target="South Central US A Router"/>
+<edge source="West US 3 D Router" target="West US 3 E Router"/>
+<edge source="West US 3 D Router" target="West Central US E Router"/>
+<edge source="West US 3 E Router" target="West US 3 F Router"/>
+<edge source="West US 3 F Router" target="West Central US C Router"/>
+<edge source="West Central US A Router" target="West Central US B Router"/>
+<edge source="West Central US A Router" target="West Central US F Router"/>
+<edge source="West Central US B Router" target="West Central US C Router"/>
+<edge source="West Central US C Router" target="West Central US D Router"/>
+<edge source="West Central US D Router" target="West Central US E Router"/>
+<edge source="West Central US D Router" target="Central US B Router"/>
+<edge source="West Central US D Router" target="South Central US C Router"/>
+<edge source="West Central US E Router" target="West Central US F Router"/>
+<edge source="West Central US E Router" target="Central US C Router"/>
+<edge source="West Central US F Router" target="South Central US B Router"/>
+<edge source="Mexico Central A Router" target="Mexico Central B Router"/>
+<edge source="Mexico Central A Router" target="Mexico Central F Router"/>
+<edge source="Mexico Central A Router" target="South Central US C Router"/>
+<edge source="Mexico Central B Router" target="Mexico Central C Router"/>
+<edge source="Mexico Central C Router" target="Mexico Central D Router"/>
+<edge source="Mexico Central C Router" target="South Central US E Router"/>
+<edge source="Mexico Central D Router" target="Mexico Central E Router"/>
+<edge source="Mexico Central E Router" target="Mexico Central F Router"/>
+<edge source="South Central US A Router" target="South Central US B Router"/>
+<edge source="South Central US A Router" target="South Central US F Router"/>
+<edge source="South Central US A Router" target="East US 2 B Router"/>
+<edge source="South Central US B Router" target="South Central US C Router"/>
+<edge source="South Central US C Router" target="South Central US D Router"/>
+<edge source="South Central US C Router" target="Central US E Router"/>
+<edge source="South Central US C Router" target="East US 2 D Router"/>
+<edge source="South Central US C Router" target="East US 3 E Router"/>
+<edge source="South Central US C Router" target="Brazil South F Router"/>
+<edge source="South Central US D Router" target="South Central US E Router"/>
+<edge source="South Central US D Router" target="East US 3 A Router"/>
+<edge source="South Central US E Router" target="South Central US F Router"/>
+<edge source="South Central US E Router" target="Brazil South F Router"/>
+<edge source="South Central US F Router" target="Central US D Router"/>
+<edge source="Central US A Router" target="Central US B Router"/>
+<edge source="Central US A Router" target="Central US F Router"/>
+<edge source="Central US B Router" target="Central US C Router"/>
+<edge source="Central US B Router" target="Canada Central A Router"/>
+<edge source="Central US C Router" target="Central US D Router"/>
+<edge source="Central US D Router" target="Central US E Router"/>
+<edge source="Central US D Router" target="North Central US D Router"/>
+<edge source="Central US E Router" target="Central US F Router"/>
+<edge source="Central US F Router" target="North Central US B Router"/>
+<edge source="Central US F Router" target="Canada Central F Router"/>
+<edge source="North Central US A Router" target="North Central US B Router"/>
+<edge source="North Central US A Router" target="North Central US F Router"/>
+<edge source="North Central US B Router" target="North Central US C Router"/>
+<edge source="North Central US C Router" target="North Central US D Router"/>
+<edge source="North Central US D Router" target="North Central US E Router"/>
+<edge source="North Central US D Router" target="Canada Central E Router"/>
+<edge source="North Central US D Router" target="East US 2 E Router"/>
+<edge source="North Central US E Router" target="North Central US F Router"/>
+<edge source="North Central US E Router" target="East US 2 E Router"/>
+<edge source="North Central US F Router" target="Canada Central F Router"/>
+<edge source="East US 3 A Router" target="East US 3 B Router"/>
+<edge source="East US 3 A Router" target="East US 3 F Router"/>
+<edge source="East US 3 A Router" target="East US 2 D Router"/>
+<edge source="East US 3 B Router" target="East US 3 C Router"/>
+<edge source="East US 3 C Router" target="East US 3 D Router"/>
+<edge source="East US 3 D Router" target="East US 3 E Router"/>
+<edge source="East US 3 D Router" target="East US 2 D Router"/>
+<edge source="East US 3 E Router" target="East US 3 F Router"/>
+<edge source="East US 3 F Router" target="Brazil South D Router"/>
+<edge source="East US 3 F Router" target="Brazil South A Router"/>
+<edge source="East US 2 A Router" target="East US 2 B Router"/>
+<edge source="East US 2 A Router" target="East US 2 F Router"/>
+<edge source="East US 2 B Router" target="East US 2 C Router"/>
+<edge source="East US 2 C Router" target="East US 2 D Router"/>
+<edge source="East US 2 C Router" target="East US A Router"/>
+<edge source="East US 2 D Router" target="East US 2 E Router"/>
+<edge source="East US 2 D Router" target="East US A Router"/>
+<edge source="East US 2 E Router" target="East US 2 F Router"/>
+<edge source="East US 2 F Router" target="Brazil South A Router"/>
+<edge source="East US 2 F Router" target="Brazil South B Router"/>
+<edge source="East US A Router" target="East US B Router"/>
+<edge source="East US A Router" target="East US F Router"/>
+<edge source="East US A Router" target="Canada Central A Router"/>
+<edge source="East US A Router" target="Canada East F Router"/>
+<edge source="East US B Router" target="East US C Router"/>
+<edge source="East US C Router" target="East US D Router"/>
+<edge source="East US C Router" target="Canada East D Router"/>
+<edge source="East US D Router" target="East US E Router"/>
+<edge source="East US E Router" target="East US F Router"/>
+<edge source="East US E Router" target="Spain Central D Router"/>
+<edge source="East US F Router" target="Canada Central E Router"/>
+<edge source="East US F Router" target="Spain Central E Router"/>
+<edge source="Canada Central A Router" target="Canada Central B Router"/>
+<edge source="Canada Central A Router" target="Canada Central F Router"/>
+<edge source="Canada Central A Router" target="Canada East C Router"/>
+<edge source="Canada Central B Router" target="Canada Central C Router"/>
+<edge source="Canada Central C Router" target="Canada Central D Router"/>
+<edge source="Canada Central D Router" target="Canada Central E Router"/>
+<edge source="Canada Central E Router" target="Canada Central F Router"/>
+<edge source="Canada Central E Router" target="Canada East F Router"/>
+<edge source="Canada East A Router" target="Canada East B Router"/>
+<edge source="Canada East A Router" target="Canada East F Router"/>
+<edge source="Canada East A Router" target="UK West D Router"/>
+<edge source="Canada East B Router" target="Canada East C Router"/>
+<edge source="Canada East C Router" target="Canada East D Router"/>
+<edge source="Canada East C Router" target="UK West F Router"/>
+<edge source="Canada East D Router" target="Canada East E Router"/>
+<edge source="Canada East E Router" target="Canada East F Router"/>
+<edge source="Brazil South A Router" target="Brazil South B Router"/>
+<edge source="Brazil South A Router" target="Brazil South F Router"/>
+<edge source="Brazil South A Router" target="Chile Central C Router"/>
+<edge source="Brazil South B Router" target="Brazil South C Router"/>
+<edge source="Brazil South C Router" target="Brazil South D Router"/>
+<edge source="Brazil South D Router" target="Brazil South E Router"/>
+<edge source="Brazil South D Router" target="Chile Central F Router"/>
+<edge source="Brazil South E Router" target="Brazil South F Router"/>
+<edge source="Chile Central A Router" target="Chile Central B Router"/>
+<edge source="Chile Central A Router" target="Chile Central F Router"/>
+<edge source="Chile Central B Router" target="Chile Central C Router"/>
+<edge source="Chile Central C Router" target="Chile Central D Router"/>
+<edge source="Chile Central D Router" target="Chile Central E Router"/>
+<edge source="Chile Central E Router" target="Chile Central F Router"/>
+<edge source="North Europe A Router" target="North Europe B Router"/>
+<edge source="North Europe A Router" target="North Europe F Router"/>
+<edge source="North Europe A Router" target="UK West E Router"/>
+<edge source="North Europe B Router" target="North Europe C Router"/>
+<edge source="North Europe C Router" target="North Europe D Router"/>
+<edge source="North Europe D Router" target="North Europe E Router"/>
+<edge source="North Europe E Router" target="North Europe F Router"/>
+<edge source="North Europe F Router" target="UK West C Router"/>
+<edge source="UK West A Router" target="UK West B Router"/>
+<edge source="UK West A Router" target="UK West F Router"/>
+<edge source="UK West A Router" target="France Central E Router"/>
+<edge source="UK West A Router" target="France Central A Router"/>
+<edge source="UK West B Router" target="UK West C Router"/>
+<edge source="UK West C Router" target="UK West D Router"/>
+<edge source="UK West D Router" target="UK West E Router"/>
+<edge source="UK West D Router" target="UK South F Router"/>
+<edge source="UK West E Router" target="UK West F Router"/>
+<edge source="UK West E Router" target="UK South B Router"/>
+<edge source="UK South A Router" target="UK South B Router"/>
+<edge source="UK South A Router" target="UK South F Router"/>
+<edge source="UK South A Router" target="Norway East B Router"/>
+<edge source="UK South B Router" target="UK South C Router"/>
+<edge source="UK South B Router" target="France Central E Router"/>
+<edge source="UK South C Router" target="UK South D Router"/>
+<edge source="UK South D Router" target="UK South E Router"/>
+<edge source="UK South D Router" target="France Central F Router"/>
+<edge source="UK South E Router" target="UK South F Router"/>
+<edge source="UK South F Router" target="Norway East A Router"/>
+<edge source="Spain Central A Router" target="Spain Central B Router"/>
+<edge source="Spain Central A Router" target="Spain Central F Router"/>
+<edge source="Spain Central A Router" target="Greece Central C Router"/>
+<edge source="Spain Central A Router" target="Greece Central D Router"/>
+<edge source="Spain Central A Router" target="Southeast Asia B Router"/>
+<edge source="Spain Central A Router" target="Southeast Asia F Router"/>
+<edge source="Spain Central B Router" target="Spain Central C Router"/>
+<edge source="Spain Central B Router" target="Italy North E Router"/>
+<edge source="Spain Central B Router" target="Central India B Router"/>
+<edge source="Spain Central C Router" target="Spain Central D Router"/>
+<edge source="Spain Central C Router" target="France Central F Router"/>
+<edge source="Spain Central D Router" target="Spain Central E Router"/>
+<edge source="Spain Central E Router" target="Spain Central F Router"/>
+<edge source="Spain Central E Router" target="Italy North A Router"/>
+<edge source="Spain Central E Router" target="Israel Central F Router"/>
+<edge source="Spain Central F Router" target="France Central A Router"/>
+<edge source="Spain Central F Router" target="South Africa North D Router"/>
+<edge source="Spain Central F Router" target="South Africa North F Router"/>
+<edge source="Spain Central F Router" target="Israel Central E Router"/>
+<edge source="Spain Central F Router" target="Central India D Router"/>
+<edge source="France Central A Router" target="France Central B Router"/>
+<edge source="France Central A Router" target="France Central F Router"/>
+<edge source="France Central B Router" target="France Central C Router"/>
+<edge source="France Central B Router" target="Italy North B Router"/>
+<edge source="France Central B Router" target="Italy North C Router"/>
+<edge source="France Central C Router" target="France Central D Router"/>
+<edge source="France Central C Router" target="West Europe E Router"/>
+<edge source="France Central C Router" target="West Europe C Router"/>
+<edge source="France Central D Router" target="France Central E Router"/>
+<edge source="France Central E Router" target="France Central F Router"/>
+<edge source="France Central E Router" target="Switzerland North A Router"/>
+<edge source="France Central E Router" target="Switzerland North B Router"/>
+<edge source="France Central E Router" target="Belgium Central E Router"/>
+<edge source="France Central F Router" target="Belgium Central E Router"/>
+<edge source="West Europe A Router" target="West Europe B Router"/>
+<edge source="West Europe A Router" target="West Europe F Router"/>
+<edge source="West Europe B Router" target="West Europe C Router"/>
+<edge source="West Europe B Router" target="Sweden Central D Router"/>
+<edge source="West Europe C Router" target="West Europe D Router"/>
+<edge source="West Europe C Router" target="Germany West Central E Router"/>
+<edge source="West Europe C Router" target="Germany West Central C Router"/>
+<edge source="West Europe D Router" target="West Europe E Router"/>
+<edge source="West Europe E Router" target="West Europe F Router"/>
+<edge source="West Europe E Router" target="Sweden Central D Router"/>
+<edge source="Germany West Central A Router" target="Germany West Central B Router"/>
+<edge source="Germany West Central A Router" target="Germany West Central F Router"/>
+<edge source="Germany West Central B Router" target="Germany West Central C Router"/>
+<edge source="Germany West Central B Router" target="Belgium Central D Router"/>
+<edge source="Germany West Central B Router" target="Austria East F Router"/>
+<edge source="Germany West Central C Router" target="Germany West Central D Router"/>
+<edge source="Germany West Central C Router" target="Denmark East F Router"/>
+<edge source="Germany West Central C Router" target="Denmark East C Router"/>
+<edge source="Germany West Central C Router" target="Austria East B Router"/>
+<edge source="Germany West Central D Router" target="Germany West Central E Router"/>
+<edge source="Germany West Central D Router" target="Sweden Central E Router"/>
+<edge source="Germany West Central D Router" target="Sweden Central F Router"/>
+<edge source="Germany West Central D Router" target="Poland Central E Router"/>
+<edge source="Germany West Central D Router" target="Belgium Central F Router"/>
+<edge source="Germany West Central E Router" target="Germany West Central F Router"/>
+<edge source="Germany West Central E Router" target="Poland Central F Router"/>
+<edge source="Germany West Central E Router" target="Switzerland North C Router"/>
+<edge source="Germany West Central F Router" target="Switzerland North E Router"/>
+<edge source="Switzerland North A Router" target="Switzerland North B Router"/>
+<edge source="Switzerland North A Router" target="Switzerland North F Router"/>
+<edge source="Switzerland North B Router" target="Switzerland North C Router"/>
+<edge source="Switzerland North C Router" target="Switzerland North D Router"/>
+<edge source="Switzerland North D Router" target="Switzerland North E Router"/>
+<edge source="Switzerland North E Router" target="Switzerland North F Router"/>
+<edge source="Switzerland North F Router" target="Italy North E Router"/>
+<edge source="Switzerland North F Router" target="Italy North F Router"/>
+<edge source="Italy North A Router" target="Italy North B Router"/>
+<edge source="Italy North A Router" target="Italy North F Router"/>
+<edge source="Italy North A Router" target="Southeast Asia C Router"/>
+<edge source="Italy North B Router" target="Italy North C Router"/>
+<edge source="Italy North C Router" target="Italy North D Router"/>
+<edge source="Italy North C Router" target="Austria East A Router"/>
+<edge source="Italy North C Router" target="Israel Central D Router"/>
+<edge source="Italy North C Router" target="Southeast Asia B Router"/>
+<edge source="Italy North D Router" target="Italy North E Router"/>
+<edge source="Italy North D Router" target="Poland Central E Router"/>
+<edge source="Italy North D Router" target="Greece Central F Router"/>
+<edge source="Italy North E Router" target="Italy North F Router"/>
+<edge source="Italy North E Router" target="Poland Central E Router"/>
+<edge source="Italy North F Router" target="Austria East D Router"/>
+<edge source="Italy North F Router" target="Greece Central C Router"/>
+<edge source="Italy North F Router" target="Israel Central C Router"/>
+<edge source="Norway East A Router" target="Norway East B Router"/>
+<edge source="Norway East A Router" target="Norway East F Router"/>
+<edge source="Norway East A Router" target="Sweden Central B Router"/>
+<edge source="Norway East B Router" target="Norway East C Router"/>
+<edge source="Norway East C Router" target="Norway East D Router"/>
+<edge source="Norway East C Router" target="Sweden Central A Router"/>
+<edge source="Norway East D Router" target="Norway East E Router"/>
+<edge source="Norway East E Router" target="Norway East F Router"/>
+<edge source="Sweden Central A Router" target="Sweden Central B Router"/>
+<edge source="Sweden Central A Router" target="Sweden Central F Router"/>
+<edge source="Sweden Central A Router" target="Denmark East F Router"/>
+<edge source="Sweden Central A Router" target="Finland Central A Router"/>
+<edge source="Sweden Central B Router" target="Sweden Central C Router"/>
+<edge source="Sweden Central C Router" target="Sweden Central D Router"/>
+<edge source="Sweden Central D Router" target="Sweden Central E Router"/>
+<edge source="Sweden Central D Router" target="Finland Central A Router"/>
+<edge source="Sweden Central E Router" target="Sweden Central F Router"/>
+<edge source="Sweden Central E Router" target="Denmark East A Router"/>
+<edge source="Poland Central A Router" target="Poland Central B Router"/>
+<edge source="Poland Central A Router" target="Poland Central F Router"/>
+<edge source="Poland Central B Router" target="Poland Central C Router"/>
+<edge source="Poland Central C Router" target="Poland Central D Router"/>
+<edge source="Poland Central D Router" target="Poland Central E Router"/>
+<edge source="Poland Central E Router" target="Poland Central F Router"/>
+<edge source="Belgium Central A Router" target="Belgium Central B Router"/>
+<edge source="Belgium Central A Router" target="Belgium Central F Router"/>
+<edge source="Belgium Central B Router" target="Belgium Central C Router"/>
+<edge source="Belgium Central C Router" target="Belgium Central D Router"/>
+<edge source="Belgium Central D Router" target="Belgium Central E Router"/>
+<edge source="Belgium Central E Router" target="Belgium Central F Router"/>
+<edge source="Denmark East A Router" target="Denmark East B Router"/>
+<edge source="Denmark East A Router" target="Denmark East F Router"/>
+<edge source="Denmark East B Router" target="Denmark East C Router"/>
+<edge source="Denmark East C Router" target="Denmark East D Router"/>
+<edge source="Denmark East D Router" target="Denmark East E Router"/>
+<edge source="Denmark East E Router" target="Denmark East F Router"/>
+<edge source="Finland Central A Router" target="Finland Central B Router"/>
+<edge source="Finland Central A Router" target="Finland Central F Router"/>
+<edge source="Finland Central B Router" target="Finland Central C Router"/>
+<edge source="Finland Central C Router" target="Finland Central D Router"/>
+<edge source="Finland Central D Router" target="Finland Central E Router"/>
+<edge source="Finland Central E Router" target="Finland Central F Router"/>
+<edge source="Austria East A Router" target="Austria East B Router"/>
+<edge source="Austria East A Router" target="Austria East F Router"/>
+<edge source="Austria East B Router" target="Austria East C Router"/>
+<edge source="Austria East C Router" target="Austria East D Router"/>
+<edge source="Austria East D Router" target="Austria East E Router"/>
+<edge source="Austria East E Router" target="Austria East F Router"/>
+<edge source="Greece Central A Router" target="Greece Central B Router"/>
+<edge source="Greece Central A Router" target="Greece Central F Router"/>
+<edge source="Greece Central B Router" target="Greece Central C Router"/>
+<edge source="Greece Central C Router" target="Greece Central D Router"/>
+<edge source="Greece Central D Router" target="Greece Central E Router"/>
+<edge source="Greece Central E Router" target="Greece Central F Router"/>
+<edge source="South Africa North A Router" target="South Africa North B Router"/>
+<edge source="South Africa North A Router" target="South Africa North F Router"/>
+<edge source="South Africa North B Router" target="South Africa North C Router"/>
+<edge source="South Africa North C Router" target="South Africa North D Router"/>
+<edge source="South Africa North C Router" target="Israel Central A Router"/>
+<edge source="South Africa North D Router" target="South Africa North E Router"/>
+<edge source="South Africa North D Router" target="Israel Central A Router"/>
+<edge source="South Africa North E Router" target="South Africa North F Router"/>
+<edge source="Israel Central A Router" target="Israel Central B Router"/>
+<edge source="Israel Central A Router" target="Israel Central F Router"/>
+<edge source="Israel Central A Router" target="UAE North E Router"/>
+<edge source="Israel Central B Router" target="Israel Central C Router"/>
+<edge source="Israel Central B Router" target="Southeast Asia F Router"/>
+<edge source="Israel Central C Router" target="Israel Central D Router"/>
+<edge source="Israel Central D Router" target="Israel Central E Router"/>
+<edge source="Israel Central E Router" target="Israel Central F Router"/>
+<edge source="Israel Central E Router" target="Southeast Asia E Router"/>
+<edge source="Israel Central E Router" target="UAE North B Router"/>
+<edge source="Qatar Central A Router" target="Qatar Central B Router"/>
+<edge source="Qatar Central A Router" target="Qatar Central F Router"/>
+<edge source="Qatar Central B Router" target="Qatar Central C Router"/>
+<edge source="Qatar Central C Router" target="Qatar Central D Router"/>
+<edge source="Qatar Central C Router" target="UAE North A Router"/>
+<edge source="Qatar Central D Router" target="Qatar Central E Router"/>
+<edge source="Qatar Central D Router" target="Saudi Arabia East B Router"/>
+<edge source="Qatar Central D Router" target="Saudi Arabia East D Router"/>
+<edge source="Qatar Central E Router" target="Qatar Central F Router"/>
+<edge source="Qatar Central E Router" target="UAE North F Router"/>
+<edge source="UAE North A Router" target="UAE North B Router"/>
+<edge source="UAE North A Router" target="UAE North F Router"/>
+<edge source="UAE North A Router" target="Central India F Router"/>
+<edge source="UAE North B Router" target="UAE North C Router"/>
+<edge source="UAE North B Router" target="Southeast Asia E Router"/>
+<edge source="UAE North C Router" target="UAE North D Router"/>
+<edge source="UAE North C Router" target="Central India A Router"/>
+<edge source="UAE North D Router" target="UAE North E Router"/>
+<edge source="UAE North E Router" target="UAE North F Router"/>
+<edge source="UAE North E Router" target="Southeast Asia E Router"/>
+<edge source="Central India A Router" target="Central India B Router"/>
+<edge source="Central India A Router" target="Central India F Router"/>
+<edge source="Central India B Router" target="Central India C Router"/>
+<edge source="Central India C Router" target="Central India D Router"/>
+<edge source="Central India D Router" target="Central India E Router"/>
+<edge source="Central India E Router" target="Central India F Router"/>
+<edge source="Central India E Router" target="South India A Router"/>
+<edge source="Central India E Router" target="South India C Router"/>
+<edge source="Central India F Router" target="India South Central D Router"/>
+<edge source="Central India F Router" target="India South Central A Router"/>
+<edge source="South India A Router" target="South India B Router"/>
+<edge source="South India A Router" target="South India F Router"/>
+<edge source="South India B Router" target="South India C Router"/>
+<edge source="South India B Router" target="Southeast Asia E Router"/>
+<edge source="South India B Router" target="India South Central C Router"/>
+<edge source="South India C Router" target="South India D Router"/>
+<edge source="South India C Router" target="Southeast Asia C Router"/>
+<edge source="South India D Router" target="South India E Router"/>
+<edge source="South India E Router" target="South India F Router"/>
+<edge source="South India F Router" target="India South Central B Router"/>
+<edge source="Southeast Asia A Router" target="Southeast Asia B Router"/>
+<edge source="Southeast Asia A Router" target="Southeast Asia F Router"/>
+<edge source="Southeast Asia A Router" target="Korea Central C Router"/>
+<edge source="Southeast Asia A Router" target="Japan East C Router"/>
+<edge source="Southeast Asia A Router" target="Australia Southeast D Router"/>
+<edge source="Southeast Asia B Router" target="Southeast Asia C Router"/>
+<edge source="Southeast Asia B Router" target="Malaysia West A Router"/>
+<edge source="Southeast Asia B Router" target="Malaysia West C Router"/>
+<edge source="Southeast Asia C Router" target="Southeast Asia D Router"/>
+<edge source="Southeast Asia C Router" target="East Asia E Router"/>
+<edge source="Southeast Asia C Router" target="Japan East D Router"/>
+<edge source="Southeast Asia C Router" target="Australia Southeast F Router"/>
+<edge source="Southeast Asia D Router" target="Southeast Asia E Router"/>
+<edge source="Southeast Asia D Router" target="Korea Central B Router"/>
+<edge source="Southeast Asia D Router" target="Indonesia Central E Router"/>
+<edge source="Southeast Asia E Router" target="Southeast Asia F Router"/>
+<edge source="Southeast Asia E Router" target="Indonesia Central C Router"/>
+<edge source="Southeast Asia F Router" target="East Asia A Router"/>
+<edge source="East Asia A Router" target="East Asia B Router"/>
+<edge source="East Asia A Router" target="East Asia F Router"/>
+<edge source="East Asia A Router" target="China North F Router"/>
+<edge source="East Asia A Router" target="China East E Router"/>
+<edge source="East Asia A Router" target="China East 2 E Router"/>
+<edge source="East Asia A Router" target="Korea Central E Router"/>
+<edge source="East Asia A Router" target="Australia Central C Router"/>
+<edge source="East Asia A Router" target="Australia Central F Router"/>
+<edge source="East Asia B Router" target="East Asia C Router"/>
+<edge source="East Asia B Router" target="China East F Router"/>
+<edge source="East Asia B Router" target="Japan East F Router"/>
+<edge source="East Asia C Router" target="East Asia D Router"/>
+<edge source="East Asia C Router" target="China North D Router"/>
+<edge source="East Asia C Router" target="Taiwan North C Router"/>
+<edge source="East Asia D Router" target="East Asia E Router"/>
+<edge source="East Asia D Router" target="Korea Central A Router"/>
+<edge source="East Asia D Router" target="Japan East E Router"/>
+<edge source="East Asia D Router" target="Taiwan North C Router"/>
+<edge source="East Asia E Router" target="East Asia F Router"/>
+<edge source="East Asia E Router" target="China East 2 E Router"/>
+<edge source="China North A Router" target="China North B Router"/>
+<edge source="China North A Router" target="China North F Router"/>
+<edge source="China North A Router" target="China North 3 D Router"/>
+<edge source="China North A Router" target="China North 3 F Router"/>
+<edge source="China North A Router" target="China North 2 D Router"/>
+<edge source="China North A Router" target="China North 2 A Router"/>
+<edge source="China North B Router" target="China North C Router"/>
+<edge source="China North C Router" target="China North D Router"/>
+<edge source="China North D Router" target="China North E Router"/>
+<edge source="China North E Router" target="China North F Router"/>
+<edge source="China North 3 A Router" target="China North 3 B Router"/>
+<edge source="China North 3 A Router" target="China North 3 F Router"/>
+<edge source="China North 3 B Router" target="China North 3 C Router"/>
+<edge source="China North 3 B Router" target="China North 2 A Router"/>
+<edge source="China North 3 C Router" target="China North 3 D Router"/>
+<edge source="China North 3 D Router" target="China North 3 E Router"/>
+<edge source="China North 3 E Router" target="China North 3 F Router"/>
+<edge source="China North 3 F Router" target="China North 2 E Router"/>
+<edge source="China North 2 A Router" target="China North 2 B Router"/>
+<edge source="China North 2 A Router" target="China North 2 F Router"/>
+<edge source="China North 2 B Router" target="China North 2 C Router"/>
+<edge source="China North 2 B Router" target="China East F Router"/>
+<edge source="China North 2 C Router" target="China North 2 D Router"/>
+<edge source="China North 2 D Router" target="China North 2 E Router"/>
+<edge source="China North 2 E Router" target="China North 2 F Router"/>
+<edge source="China North 2 E Router" target="China East A Router"/>
+<edge source="China East 2 A Router" target="China East 2 B Router"/>
+<edge source="China East 2 A Router" target="China East 2 F Router"/>
+<edge source="China East 2 A Router" target="China East C Router"/>
+<edge source="China East 2 B Router" target="China East 2 C Router"/>
+<edge source="China East 2 C Router" target="China East 2 D Router"/>
+<edge source="China East 2 D Router" target="China East 2 E Router"/>
+<edge source="China East 2 E Router" target="China East 2 F Router"/>
+<edge source="China East 2 E Router" target="China East F Router"/>
+<edge source="China East A Router" target="China East B Router"/>
+<edge source="China East A Router" target="China East F Router"/>
+<edge source="China East B Router" target="China East C Router"/>
+<edge source="China East C Router" target="China East D Router"/>
+<edge source="China East D Router" target="China East E Router"/>
+<edge source="China East D Router" target="Japan West B Router"/>
+<edge source="China East D Router" target="Korea Central B Router"/>
+<edge source="China East E Router" target="China East F Router"/>
+<edge source="China East E Router" target="Korea Central E Router"/>
+<edge source="China East F Router" target="Japan West D Router"/>
+<edge source="Korea Central A Router" target="Korea Central B Router"/>
+<edge source="Korea Central A Router" target="Korea Central F Router"/>
+<edge source="Korea Central A Router" target="Japan West E Router"/>
+<edge source="Korea Central A Router" target="Taiwan North D Router"/>
+<edge source="Korea Central A Router" target="Taiwan North F Router"/>
+<edge source="Korea Central B Router" target="Korea Central C Router"/>
+<edge source="Korea Central C Router" target="Korea Central D Router"/>
+<edge source="Korea Central C Router" target="Japan West E Router"/>
+<edge source="Korea Central D Router" target="Korea Central E Router"/>
+<edge source="Korea Central E Router" target="Korea Central F Router"/>
+<edge source="Korea Central F Router" target="Japan East E Router"/>
+<edge source="Korea Central F Router" target="Japan East C Router"/>
+<edge source="Japan West A Router" target="Japan West B Router"/>
+<edge source="Japan West A Router" target="Japan West F Router"/>
+<edge source="Japan West B Router" target="Japan West C Router"/>
+<edge source="Japan West B Router" target="Japan East B Router"/>
+<edge source="Japan West B Router" target="Japan East C Router"/>
+<edge source="Japan West C Router" target="Japan West D Router"/>
+<edge source="Japan West D Router" target="Japan West E Router"/>
+<edge source="Japan West E Router" target="Japan West F Router"/>
+<edge source="Japan East A Router" target="Japan East B Router"/>
+<edge source="Japan East A Router" target="Japan East F Router"/>
+<edge source="Japan East B Router" target="Japan East C Router"/>
+<edge source="Japan East C Router" target="Japan East D Router"/>
+<edge source="Japan East C Router" target="Australia Central D Router"/>
+<edge source="Japan East C Router" target="Australia Central A Router"/>
+<edge source="Japan East D Router" target="Japan East E Router"/>
+<edge source="Japan East E Router" target="Japan East F Router"/>
+<edge source="Japan East F Router" target="Taiwan North B Router"/>
+<edge source="Japan East F Router" target="Taiwan North C Router"/>
+<edge source="Saudi Arabia East A Router" target="Saudi Arabia East B Router"/>
+<edge source="Saudi Arabia East A Router" target="Saudi Arabia East F Router"/>
+<edge source="Saudi Arabia East B Router" target="Saudi Arabia East C Router"/>
+<edge source="Saudi Arabia East C Router" target="Saudi Arabia East D Router"/>
+<edge source="Saudi Arabia East D Router" target="Saudi Arabia East E Router"/>
+<edge source="Saudi Arabia East E Router" target="Saudi Arabia East F Router"/>
+<edge source="India South Central A Router" target="India South Central B Router"/>
+<edge source="India South Central A Router" target="India South Central F Router"/>
+<edge source="India South Central B Router" target="India South Central C Router"/>
+<edge source="India South Central C Router" target="India South Central D Router"/>
+<edge source="India South Central D Router" target="India South Central E Router"/>
+<edge source="India South Central E Router" target="India South Central F Router"/>
+<edge source="Malaysia West A Router" target="Malaysia West B Router"/>
+<edge source="Malaysia West A Router" target="Malaysia West F Router"/>
+<edge source="Malaysia West B Router" target="Malaysia West C Router"/>
+<edge source="Malaysia West C Router" target="Malaysia West D Router"/>
+<edge source="Malaysia West D Router" target="Malaysia West E Router"/>
+<edge source="Malaysia West E Router" target="Malaysia West F Router"/>
+<edge source="Indonesia Central A Router" target="Indonesia Central B Router"/>
+<edge source="Indonesia Central A Router" target="Indonesia Central F Router"/>
+<edge source="Indonesia Central B Router" target="Indonesia Central C Router"/>
+<edge source="Indonesia Central C Router" target="Indonesia Central D Router"/>
+<edge source="Indonesia Central D Router" target="Indonesia Central E Router"/>
+<edge source="Indonesia Central E Router" target="Indonesia Central F Router"/>
+<edge source="Taiwan North A Router" target="Taiwan North B Router"/>
+<edge source="Taiwan North A Router" target="Taiwan North F Router"/>
+<edge source="Taiwan North B Router" target="Taiwan North C Router"/>
+<edge source="Taiwan North C Router" target="Taiwan North D Router"/>
+<edge source="Taiwan North D Router" target="Taiwan North E Router"/>
+<edge source="Taiwan North E Router" target="Taiwan North F Router"/>
+<edge source="Australia Southeast A Router" target="Australia Southeast B Router"/>
+<edge source="Australia Southeast A Router" target="Australia Southeast F Router"/>
+<edge source="Australia Southeast B Router" target="Australia Southeast C Router"/>
+<edge source="Australia Southeast B Router" target="Australia East F Router"/>
+<edge source="Australia Southeast C Router" target="Australia Southeast D Router"/>
+<edge source="Australia Southeast D Router" target="Australia Southeast E Router"/>
+<edge source="Australia Southeast D Router" target="Australia Central E Router"/>
+<edge source="Australia Southeast E Router" target="Australia Southeast F Router"/>
+<edge source="Australia Southeast E Router" target="Australia Central A Router"/>
+<edge source="Australia Southeast F Router" target="Australia East C Router"/>
+<edge source="Australia East A Router" target="Australia East B Router"/>
+<edge source="Australia East A Router" target="Australia East F Router"/>
+<edge source="Australia East B Router" target="Australia East C Router"/>
+<edge source="Australia East C Router" target="Australia East D Router"/>
+<edge source="Australia East D Router" target="Australia East E Router"/>
+<edge source="Australia East E Router" target="Australia East F Router"/>
+<edge source="Australia East F Router" target="Australia Central A Router"/>
+<edge source="Australia East F Router" target="Australia Central B Router"/>
+<edge source="Australia Central A Router" target="Australia Central B Router"/>
+<edge source="Australia Central A Router" target="Australia Central F Router"/>
+<edge source="Australia Central B Router" target="Australia Central C Router"/>
+<edge source="Australia Central C Router" target="Australia Central D Router"/>
+<edge source="Australia Central C Router" target="New Zealand North A Router"/>
+<edge source="Australia Central D Router" target="Australia Central E Router"/>
+<edge source="Australia Central E Router" target="Australia Central F Router"/>
+<edge source="Australia Central E Router" target="New Zealand North F Router"/>
+<edge source="New Zealand North A Router" target="New Zealand North B Router"/>
+<edge source="New Zealand North A Router" target="New Zealand North F Router"/>
+<edge source="New Zealand North B Router" target="New Zealand North C Router"/>
+<edge source="New Zealand North C Router" target="New Zealand North D Router"/>
+<edge source="New Zealand North D Router" target="New Zealand North E Router"/>
+<edge source="New Zealand North E Router" target="New Zealand North F Router"/>
+</graph></graphml>
