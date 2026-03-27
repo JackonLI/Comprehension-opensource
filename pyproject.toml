@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seraph-intent-comprehension"
+version = "0.2.0"
+description = "Open-source evaluation pipeline for the Seraph intent comprehension module."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "aiohttp>=3.9",
+  "openai>=1.30.0",
+  "openpyxl>=3.1",
+  "pandas>=2.0",
+  "python-dotenv>=1.0",
+  "tenacity>=8.2",
+  "websockets>=12.0",
+]
+
+[project.scripts]
+seraph-intent-eval = "seraph_intent_comprehension.cli:main"
+seraph-intent-score = "seraph_intent_comprehension.cli:score_main"
+seraph-intent-review = "seraph_intent_comprehension.cli:review_main"
+seraph-intent-feedback = "seraph_intent_comprehension.cli:feedback_main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
