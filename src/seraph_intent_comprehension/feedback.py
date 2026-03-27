@@ -156,7 +156,7 @@ def run_feedback_session(
                 f"{latest_feedback}\n"
                 "Please try again."
             )
-            latest_revised_output, _, _ = generate_iterative_ir(
+            latest_revised_output, _, _, _, _ = generate_iterative_ir(
                 client=client,
                 model=model,
                 base_prompt=base_prompt,

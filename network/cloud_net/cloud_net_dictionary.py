@@ -720,9 +720,9 @@ for prefixes, gateways in generate_prefix_interfaces_dcrows(entity_to_prefix_dic
 for prefixes, gateways in generate_prefix_interfaces_servers(entity_to_prefix_dict_servers).items():
   if prefixes not in prefix_to_interface_dict:
     prefix_to_interface_dict[prefixes] = gateways
-for prefixes, gateaways in prefix_to_interface_dict_external.items():
+for prefixes, gateways in prefix_to_interface_dict_external.items():
   if prefixes not in prefix_to_interface_dict:
-    prefix_to_interface_dict[prefixes] = gateaways
+    prefix_to_interface_dict[prefixes] = gateways
     
 json_store(prefix_to_interface_dict,'../json/prefix_gateways.json')
 

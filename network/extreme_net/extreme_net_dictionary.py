@@ -121,9 +121,9 @@ prefix_to_interface_dict = {}
 for prefixes, gateways in generate_prefix_interfaces_dcs(entity_to_prefix_dict_dcs).items():
   if prefixes not in prefix_to_interface_dict:
     prefix_to_interface_dict[prefixes] = gateways
-for prefixes, gateaways in prefix_to_interface_dict_external.items():
+for prefixes, gateways in prefix_to_interface_dict_external.items():
   if prefixes not in prefix_to_interface_dict:
-    prefix_to_interface_dict[prefixes] = gateaways
+    prefix_to_interface_dict[prefixes] = gateways
     
 json_store(prefix_to_interface_dict,'../json/prefix_gateways.json')
 

@@ -58,10 +58,12 @@ def generate_iterative_ir(
     snmt_slices: list[str],
     intent_text: str,
     extra_user_text: str = "",
-) -> tuple[str, int, int]:
+) -> tuple[str, int, int, int, int]:
     previous_output = ""
     final_output = ""
     token_cost_total = 0
+    input_tokens_total = 0
+    output_tokens_total = 0
     llm_calls = 0
 
     for slice_number, snmt_slice in enumerate(snmt_slices, start=1):
@@ -78,13 +80,21 @@ def generate_iterative_ir(
         )
         llm_calls += 1
         token_cost_total += response.total_tokens
+        input_tokens_total += response.prompt_tokens
+        output_tokens_total += response.completion_tokens
         final_output = response.content.strip()
         if is_incomplete_response(final_output):
             previous_output = f"{final_output}\n"
             continue
         break
 
-    return final_output, token_cost_total, llm_calls
+    return (
+        final_output,
+        token_cost_total,
+        input_tokens_total,
+        output_tokens_total,
+        llm_calls,
+    )
 
 
 def evaluate_dataset(
@@ -134,7 +144,13 @@ def evaluate_dataset(
         snmt_slices = load_snmt_slices(repo_root, spec.snmt_file, snmt_slice_size)
         for intent_text in dataframe["NL intent"]:
             start_time = time.time()
-            final_output, token_cost_total, llm_calls = generate_iterative_ir(
+            (
+                final_output,
+                token_cost_total,
+                input_tokens,
+                output_tokens,
+                llm_calls,
+            ) = generate_iterative_ir(
                 client=client,
                 model=model,
                 base_prompt=base_prompt,
@@ -144,6 +160,8 @@ def evaluate_dataset(
             time_costs.append(time.time() - start_time)
             real_outputs.append(final_output)
             token_costs.append(token_cost_total)
+            total_input_tokens += input_tokens
+            total_output_tokens += output_tokens
             total_llm_calls += llm_calls
     else:
         raise ValueError(f"Unsupported evaluation mode: {mode}")
