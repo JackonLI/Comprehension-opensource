@@ -1,6 +1,6 @@
 # Seraph
 
-This repository releases the open-source artifact for `Seraph`, a system for LLM-assisted network intent processing. The current public release focuses on the `intent comprehension` module, including datasets, prompts, topology assets, evaluation scripts, and the expert review workflow used in our study.
+This repository releases the open-source artifact for `Seraph`, a system for LLM-assisted network intent processing. The current public release focuses on the `intent comprehension` module, including datasets, prompts, topology assets, evaluation scripts, and the expert review workflow used in our study. Code & data for `Conflict detection & resolution` and `Deployment optimization` will come soon.
 
 ## Current Release
 
